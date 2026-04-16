@@ -1,0 +1,38 @@
+Built target ament_cmake_python_copy_turtlesim_goal
+running egg_info
+writing turtlesim_goal.egg-info/PKG-INFO
+writing dependency_links to turtlesim_goal.egg-info/dependency_links.txt
+writing top-level names to turtlesim_goal.egg-info/top_level.txt
+reading manifest file 'turtlesim_goal.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_goal.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_turtlesim_goal_egg
+-- Install configuration: ""
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/pythonpath.sh
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/pythonpath.dsv
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info
+-- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/top_level.txt
+-- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/dependency_links.txt
+-- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/PKG-INFO
+-- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/SOURCES.txt
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal/waypoint_goal.py
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal/gotogoal.py
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal/__init__.py
+Listing '/home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal'...
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/turtlesim_goal/gotogoal.py
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/turtlesim_goal/waypoint_goal.py
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/ament_index/resource_index/package_run_dependencies/turtlesim_goal
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/ament_index/resource_index/parent_prefix_path/turtlesim_goal
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/ament_prefix_path.sh
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/path.sh
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/path.dsv
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.bash
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.sh
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.zsh
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.dsv
+-- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/package.dsv
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/ament_index/resource_index/packages/turtlesim_goal
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/cmake/turtlesim_goalConfig.cmake
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/cmake/turtlesim_goalConfig-version.cmake
+-- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/package.xml

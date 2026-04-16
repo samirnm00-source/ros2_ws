@@ -1,0 +1,42 @@
+[0.008s] Invoking command in '/home/samirnoori/ros2_ws/build/turtlesim_goal': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/samirnoori/ros2_ws/build/turtlesim_goal -- -j24 -l24
+[0.061s] Built target ament_cmake_python_copy_turtlesim_goal
+[0.149s] running egg_info
+[0.157s] writing turtlesim_goal.egg-info/PKG-INFO
+[0.157s] writing dependency_links to turtlesim_goal.egg-info/dependency_links.txt
+[0.157s] writing top-level names to turtlesim_goal.egg-info/top_level.txt
+[0.180s] reading manifest file 'turtlesim_goal.egg-info/SOURCES.txt'
+[0.180s] writing manifest file 'turtlesim_goal.egg-info/SOURCES.txt'
+[0.197s] Built target ament_cmake_python_build_turtlesim_goal_egg
+[0.205s] Invoked command in '/home/samirnoori/ros2_ws/build/turtlesim_goal' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/samirnoori/ros2_ws/build/turtlesim_goal -- -j24 -l24
+[0.206s] Invoking command in '/home/samirnoori/ros2_ws/build/turtlesim_goal': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/samirnoori/ros2_ws/build/turtlesim_goal
+[0.210s] -- Install configuration: ""
+[0.210s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/pythonpath.sh
+[0.210s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/pythonpath.dsv
+[0.210s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info
+[0.210s] -- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/top_level.txt
+[0.210s] -- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/dependency_links.txt
+[0.210s] -- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/PKG-INFO
+[0.210s] -- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal-0.0.1-py3.12.egg-info/SOURCES.txt
+[0.210s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal
+[0.211s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal/waypoint_goal.py
+[0.211s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal/gotogoal.py
+[0.211s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal/__init__.py
+[0.230s] Listing '/home/samirnoori/ros2_ws/install/turtlesim_goal/lib/python3.12/site-packages/turtlesim_goal'...
+[0.233s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/turtlesim_goal/gotogoal.py
+[0.234s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/lib/turtlesim_goal/waypoint_goal.py
+[0.234s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/ament_index/resource_index/package_run_dependencies/turtlesim_goal
+[0.234s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/ament_index/resource_index/parent_prefix_path/turtlesim_goal
+[0.234s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/ament_prefix_path.sh
+[0.234s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/ament_prefix_path.dsv
+[0.234s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/path.sh
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/environment/path.dsv
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.bash
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.sh
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.zsh
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/local_setup.dsv
+[0.235s] -- Installing: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/package.dsv
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/ament_index/resource_index/packages/turtlesim_goal
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/cmake/turtlesim_goalConfig.cmake
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/cmake/turtlesim_goalConfig-version.cmake
+[0.235s] -- Up-to-date: /home/samirnoori/ros2_ws/install/turtlesim_goal/share/turtlesim_goal/package.xml
+[0.244s] Invoked command in '/home/samirnoori/ros2_ws/build/turtlesim_goal' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/samirnoori/ros2_ws/build/turtlesim_goal

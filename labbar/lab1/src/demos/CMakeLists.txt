@@ -33,6 +33,8 @@ install(PROGRAMS
   ${PROJECT_NAME}/topics/talker_T2.py
   ${PROJECT_NAME}/topics/listener_L2.py
   ${PROJECT_NAME}/topics/listener_L3.py
+  ${PROJECT_NAME}/topics/listener_original.py
+  ${PROJECT_NAME}/topics/talker_original.py
   ${PROJECT_NAME}/parameters/param_talker.py
   ${PROJECT_NAME}/parameters/config_reader.py
   ${PROJECT_NAME}/actions/action_client.py

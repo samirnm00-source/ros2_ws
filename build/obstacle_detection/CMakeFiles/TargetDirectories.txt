@@ -1,0 +1,11 @@
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/uninstall.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/obstacle_detection_uninstall.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/ament_cmake_python_copy_obstacle_detection.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/ament_cmake_python_build_obstacle_detection_egg.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/test.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/edit_cache.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/rebuild_cache.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/list_install_components.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/install.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/install/local.dir
+/home/samirnoori/ros2_ws/build/obstacle_detection/CMakeFiles/install/strip.dir

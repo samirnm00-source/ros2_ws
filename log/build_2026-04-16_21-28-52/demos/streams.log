@@ -1,0 +1,97 @@
+[0.006s] Invoking command in '/home/samirnoori/ros2_ws/build/demos': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/samirnoori/ros2_ws/build/demos -- -j24 -l24
+[0.044s] Built target ament_cmake_python_copy_demos
+[0.145s] running egg_info
+[0.153s] writing demos.egg-info/PKG-INFO
+[0.153s] writing dependency_links to demos.egg-info/dependency_links.txt
+[0.153s] writing top-level names to demos.egg-info/top_level.txt
+[0.176s] reading manifest file 'demos.egg-info/SOURCES.txt'
+[0.176s] writing manifest file 'demos.egg-info/SOURCES.txt'
+[0.190s] Built target ament_cmake_python_build_demos_egg
+[0.198s] Invoked command in '/home/samirnoori/ros2_ws/build/demos' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/samirnoori/ros2_ws/build/demos -- -j24 -l24
+[0.198s] Invoking command in '/home/samirnoori/ros2_ws/build/demos': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/samirnoori/ros2_ws/build/demos
+[0.202s] -- Install configuration: ""
+[0.202s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/environment/pythonpath.sh
+[0.203s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/environment/pythonpath.dsv
+[0.203s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos-0.0.1-py3.12.egg-info
+[0.203s] -- Installing: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos-0.0.1-py3.12.egg-info/top_level.txt
+[0.203s] -- Installing: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos-0.0.1-py3.12.egg-info/dependency_links.txt
+[0.203s] -- Installing: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos-0.0.1-py3.12.egg-info/PKG-INFO
+[0.203s] -- Installing: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos-0.0.1-py3.12.egg-info/SOURCES.txt
+[0.203s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos
+[0.203s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/parameters
+[0.203s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/parameters/config_reader.py
+[0.203s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/parameters/param_talker.py
+[0.203s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/parameters/__init__.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/services
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/services/service_client.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/services/service_server.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/services/__init__.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/listener_L3.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/talker_original.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/listener_L1.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/listener_L2.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/listener_original.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/talker_T2.py
+[0.204s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/__init__.py
+[0.205s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics/talker_T1.py
+[0.205s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/actions
+[0.205s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/actions/__init__.py
+[0.205s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/actions/action_server.py
+[0.205s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/actions/action_client.py
+[0.205s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/__init__.py
+[0.225s] Listing '/home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos'...
+[0.225s] Listing '/home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/actions'...
+[0.225s] Listing '/home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/parameters'...
+[0.225s] Listing '/home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/services'...
+[0.225s] Listing '/home/samirnoori/ros2_ws/install/demos/lib/python3.12/site-packages/demos/topics'...
+[0.228s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/config
+[0.228s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/config/params.yaml
+[0.228s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/services
+[0.228s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/services/service_client.py
+[0.228s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/services/service_server.py
+[0.228s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/services/__init__.py
+[0.228s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/listener_L3.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/talker_original.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/listener_L1.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/listener_L2.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/listener_original.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/talker_T2.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/__init__.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/topics/talker_T1.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/parameters
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/parameters/config_reader.py
+[0.229s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/parameters/param_talker.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/parameters/__init__.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/actions
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/actions/__init__.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/actions/action_server.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/actions/action_client.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/service_client.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/service_server.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/listener_L1.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/talker_T1.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/talker_T2.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/listener_L2.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/listener_L3.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/param_talker.py
+[0.230s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/config_reader.py
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/action_client.py
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/lib/demos/action_server.py
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/ament_index/resource_index/package_run_dependencies/demos
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/ament_index/resource_index/parent_prefix_path/demos
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/environment/ament_prefix_path.sh
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/environment/ament_prefix_path.dsv
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/environment/path.sh
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/environment/path.dsv
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/local_setup.bash
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/local_setup.sh
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/local_setup.zsh
+[0.231s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/local_setup.dsv
+[0.232s] -- Installing: /home/samirnoori/ros2_ws/install/demos/share/demos/package.dsv
+[0.232s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/ament_index/resource_index/packages/demos
+[0.232s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/cmake/demosConfig.cmake
+[0.232s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/cmake/demosConfig-version.cmake
+[0.232s] -- Up-to-date: /home/samirnoori/ros2_ws/install/demos/share/demos/package.xml
+[0.234s] Invoked command in '/home/samirnoori/ros2_ws/build/demos' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/samirnoori/ros2_ws/build/demos
